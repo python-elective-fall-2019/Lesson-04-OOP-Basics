@@ -16,6 +16,8 @@ class Person:
 
 
 
+# p = Person('Claus', 'Reptile')
+
 
 
 
